@@ -1,8 +1,10 @@
 {
-  "timestamp": "2026-10-04T18:18:20.2031899Z",
-  "version": 1791137900,
-  "aktiv_fingerprints": [
-    "63FA-F4A7-73DA-9244"
-  ],
-  "deaktivalt_fingerprints": []
+    "aktiv_fingerprints":  [
+                               "63FA-F4A7-73DA-9244"
+                           ],
+    "deaktivalt_fingerprints":  [
+
+                                ],
+    "timestamp":  "2026-10-04T18:21:47.2257837Z",
+    "version":  1791138107
 }
